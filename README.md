@@ -4,7 +4,7 @@ This repository provides Python code and data to reproduce results and figures f
 ---
 
 **Author**: Laura Steel Pascual  
-**Date**: June 2026  
+**Date**: February 2026  
 **Project**: Decoding Environmental Status with eDNA and Supervised Machine Learning: Insights into Ecological Condition and Species‑Level Predictors in Solomon Island Rivers
 
 ---
