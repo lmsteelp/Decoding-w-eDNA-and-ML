@@ -3,7 +3,7 @@ This repository provides Python code and data to reproduce results and figures f
 
 ---
 
-**Author**: Laura Steel Pascual, laura.steel.pascual@ddconsulting.org  
+**Author**: Laura Steel Pascual, laura.steel.pascual@ddaconsulting.org  
 **Date**: February 2026  
 **Project**: Decoding Environmental Status with eDNA and Supervised Machine Learning: Insights into Ecological Condition and Species‑Level Predictors in Solomon Island Rivers
 
@@ -21,7 +21,7 @@ Four classifier types (Random Forest, XGBoost, Decision Tree, Logistic Regressio
 
 ## Notebooks
 
-PDF versions of all notebooks are available in `pdfs/` if you would prefer to read the analysis without running any code (email laura.steel.pascual@ddconsulting.org).
+PDF versions of all notebooks are available in `pdfs/` if you would prefer to read the analysis without running any code (email laura.steel.pascual@ddaconsulting.org).
 
 The notebooks are designed to be run in the following order:
 
