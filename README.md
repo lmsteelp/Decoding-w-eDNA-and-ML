@@ -1,11 +1,11 @@
 # Decoding-Environmental-Status-w-eDNA-and-ML
-This repository provides Python code and data to reproduce results and figures from the paper:  Steel Pascual, L.M., Fehling, M., Annandale, D., Ricciardi, F., &amp; Mangale, C. (2026) "Decoding Anthropogenic Impact with eDNA and Supervised Machine Learning: Species‑Level Predictors from Solomon Island Rivers".
+This repository provides Python code and data to reproduce results and figures from the paper:  Steel Pascual, L.M., Fehling, M., Annandale, D., Ricciardi, F., &amp; Mangale, C. (2026) "Decoding Anthropogenic Impact with eDNA and Supervised Machine Learning: Species‑Level Associations from Solomon Island Rivers".
 
 ---
 
 **Author**: Laura Steel Pascual, laura.steel.pascual@ddaconsulting.org  
 **Date**: February 2026  
-**Project**: Decoding Anthropogenic Impact with eDNA and Supervised Machine Learning: Species‑Level Predictors from Solomon Island Rivers
+**Project**: Decoding Anthropogenic Impact with eDNA and Supervised Machine Learning: Species‑Level Associations from Solomon Island Rivers
 
 ---
 
